@@ -19,7 +19,7 @@ Muestra el uso de:
 <b>Objetivo:</b> Hacer un programa que calcule el área de un rombo.
 <br>
 <br>
-<p>Breve descripción:
+<p><b>Breve descripción:</b>
 Es un programa para calcular el área del rombo.
 <br>
 </p>
